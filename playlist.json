@@ -1,0 +1,492 @@
+[
+  {
+    "id": "1",
+    "title": "202",
+    "artist": "Kweller",
+    "album": "202",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/202/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/202.mp3",
+    "duration": 170
+  },
+  {
+    "id": "2",
+    "title": "5 Regras - Ao Vivo",
+    "artist": "Jorge & Mateus",
+    "album": "5 Regras - Ao Vivo",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/5RegrasAoVivo/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/5%20Regras%20-%20Ao%20Vivo.mp3",
+    "duration": 168
+  },
+  {
+    "id": "3",
+    "title": "AMEIANOITE",
+    "artist": "Pabllo Vittar",
+    "album": "AMEIANOITE",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/AMEIANOITE/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/AMEIANOITE.mp3",
+    "duration": 166
+  },
+  {
+    "id": "4",
+    "title": "Acabei de Terminar - Ao Vivo",
+    "artist": "Paulo e Nathan",
+    "album": "Acabei de Terminar - Ao Vivo",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/AcabeideTerminarAoVi/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Acabei%20de%20Terminar%20-%20Ao%20Vivo.mp3",
+    "duration": 224
+  },
+  {
+    "id": "5",
+    "title": "Ai Preto",
+    "artist": "L7NNON",
+    "album": "Ai Preto",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/AiPreto/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Ai%20Preto.mp3",
+    "duration": 132
+  },
+  {
+    "id": "6",
+    "title": "Bagulho Louco",
+    "artist": "Mc Paiva ZS",
+    "album": "Bagulho Louco",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/BagulhoLouco/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Bagulho%20Louco.mp3",
+    "duration": 124
+  },
+  {
+    "id": "7",
+    "title": "Baile no Morro",
+    "artist": "MC Tairon",
+    "album": "Baile no Morro",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/BailenoMorro/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Baile%20no%20Morro.mp3",
+    "duration": 140
+  },
+  {
+    "id": "8",
+    "title": "Balanço da Rede",
+    "artist": "Matheus Fernandes",
+    "album": "Balanço da Rede",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/BalanodaRede/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Balanço%20da%20Rede.mp3",
+    "duration": 166
+  },
+  {
+    "id": "9",
+    "title": "Bandido",
+    "artist": "Zé Felipe",
+    "album": "Bandido",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/Bandido/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Bandido.mp3",
+    "duration": 132
+  },
+  {
+    "id": "10",
+    "title": "Basiquinho - Ao Vivo",
+    "artist": "Matheus & Kauan",
+    "album": "Basiquinho - Ao Vivo",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/BasiquinhoAoVivo/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Basiquinho%20-%20Ao%20Vivo.mp3",
+    "duration": 226
+  },
+  {
+    "id": "11",
+    "title": "Beijo de Glicose - Ao Vivo",
+    "artist": "Diego & Victor Hugo",
+    "album": "Beijo de Glicose - Ao Vivo",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/BeijodeGlicoseAoVivo/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Beijo%20de%20Glicose%20-%20Ao%20Vivo.mp3",
+    "duration": 182
+  },
+  {
+    "id": "12",
+    "title": "CACHORRINHAS",
+    "artist": "Luísa Sonza",
+    "album": "CACHORRINHAS",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/CACHORRINHAS/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/CACHORRINHAS.mp3",
+    "duration": 135
+  },
+  {
+    "id": "13",
+    "title": "CORAÇÃO CIGANO - Ao Vivo",
+    "artist": "Luan Santana",
+    "album": "CORAÇÃO CIGANO - Ao Vivo",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/CORAOCIGANOAoVivo/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/CORAÇÃO%20CIGANO%20-%20Ao%20Vivo.mp3",
+    "duration": 210
+  },
+  {
+    "id": "14",
+    "title": "Casei Com a Putaria",
+    "artist": "Mc Paiva ZS",
+    "album": "Casei Com a Putaria",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/CaseiComaPutaria/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Casei%20Com%20a%20Putaria.mp3",
+    "duration": 153
+  },
+  {
+    "id": "15",
+    "title": "Cheiro de Balada - Ao Vivo",
+    "artist": "Hugo & Guilherme",
+    "album": "Cheiro de Balada - Ao Vivo",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/CheirodeBaladaAoVivo/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Cheiro%20de%20Balada%20-%20Ao%20Vivo.mp3",
+    "duration": 128
+  },
+  {
+    "id": "16",
+    "title": "Comunicação Falhou - Ao Vivo",
+    "artist": "Mari Fernandez",
+    "album": "Comunicação Falhou - Ao Vivo",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/ComunicaoFalhouAoViv/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Comunicação%20Falhou%20-%20Ao%20Vivo.mp3",
+    "duration": 180
+  },
+  {
+    "id": "17",
+    "title": "Dengo",
+    "artist": "João Gomes",
+    "album": "Dengo",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/Dengo/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Dengo.mp3",
+    "duration": 154
+  },
+  {
+    "id": "18",
+    "title": "EU VOU COM CARINHO ELA QUER COM FORÇA",
+    "artist": "Mc Don Juan",
+    "album": "EU VOU COM CARINHO ELA QUER COM FORÇA",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/EUVOUCOMCARINHOELAQU/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/EU%20VOU%20COM%20CARINHO%20ELA%20QUER%20COM%20FORÇA.mp3",
+    "duration": 144
+  },
+  {
+    "id": "19",
+    "title": "Eu Gosto Assim - Ao Vivo",
+    "artist": "Gustavo Mioto",
+    "album": "Eu Gosto Assim - Ao Vivo",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/EuGostoAssimAoVivo/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Eu%20Gosto%20Assim%20-%20Ao%20Vivo.mp3",
+    "duration": 147
+  },
+  {
+    "id": "20",
+    "title": "Evoque Prata",
+    "artist": "MC MENOR HR",
+    "album": "Evoque Prata",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/EvoquePrata/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Evoque%20Prata.mp3",
+    "duration": 124
+  },
+  {
+    "id": "21",
+    "title": "Fala Mal de Mim - Ao Vivo",
+    "artist": "Gusttavo Lima",
+    "album": "Fala Mal de Mim - Ao Vivo",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/FalaMaldeMimAoVivo/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Fala%20Mal%20de%20Mim%20-%20Ao%20Vivo.mp3",
+    "duration": 198
+  },
+  {
+    "id": "22",
+    "title": "Gostosinha é Ela",
+    "artist": "Felipe Amorim",
+    "album": "Gostosinha é Ela",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/GostosinhaEla/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Gostosinha%20é%20Ela.mp3",
+    "duration": 138
+  },
+  {
+    "id": "23",
+    "title": "Haja Colírio (feat. Hugo & Guilherme) - Ao Vivo",
+    "artist": "Guilherme & Benuto",
+    "album": "Haja Colírio (feat. Hugo & Guilherme) - Ao Vivo",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/HajaColriofeatHugoGu/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Haja%20Colírio%20(feat.%20Hugo%20&%20Guilherme)%20-%20Ao%20Vivo.mp3",
+    "duration": 7149
+  },
+  {
+    "id": "24",
+    "title": "Incendeia",
+    "artist": "MC Kevin o Chris",
+    "album": "Incendeia",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/Incendeia/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Incendeia.mp3",
+    "duration": 240
+  },
+  {
+    "id": "25",
+    "title": "Insônia - Ao Vivo",
+    "artist": "LUDMILLA",
+    "album": "Insônia - Ao Vivo",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/InsniaAoVivo/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Insônia%20-%20Ao%20Vivo.mp3",
+    "duration": 181
+  },
+  {
+    "id": "26",
+    "title": "Konteiner",
+    "artist": "Filipe Ret",
+    "album": "Konteiner",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/Konteiner/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Konteiner.mp3",
+    "duration": 158
+  },
+  {
+    "id": "27",
+    "title": "Mal Feito - Ao Vivo",
+    "artist": "Hugo & Guilherme",
+    "album": "Mal Feito - Ao Vivo",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/MalFeitoAoVivo/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Mal%20Feito%20-%20Ao%20Vivo.mp3",
+    "duration": 128
+  },
+  {
+    "id": "28",
+    "title": "Melodia Alucinógena",
+    "artist": "DJ AK BR",
+    "album": "Melodia Alucinógena",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/MelodiaAlucingena/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Melodia%20Alucinógena.mp3",
+    "duration": 184
+  },
+  {
+    "id": "29",
+    "title": "Metflix",
+    "artist": "Mc Poze do Rodo",
+    "album": "Metflix",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/Metflix/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Metflix.mp3",
+    "duration": 133
+  },
+  {
+    "id": "30",
+    "title": "Nem Namorado e Nem Ficante - Ao Vivo | Faixa Bônus",
+    "artist": "Israel & Rodolffo",
+    "album": "Nem Namorado e Nem Ficante - Ao Vivo | Faixa Bônus",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/NemNamoradoeNemFican/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Nem%20Namorado%20e%20Nem%20Ficante%20-%20Ao%20Vivo%20_%20Faixa%20Bônus.mp3",
+    "duration": 197
+  },
+  {
+    "id": "31",
+    "title": "No Ouvidinho",
+    "artist": "Felipe Amorim",
+    "album": "No Ouvidinho",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/NoOuvidinho/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/No%20Ouvidinho.mp3",
+    "duration": 184
+  },
+  {
+    "id": "32",
+    "title": "NÉ SEGREDO",
+    "artist": "MC Cabelinho",
+    "album": "NÉ SEGREDO",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/NSEGREDO/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/NÉ%20SEGREDO.mp3",
+    "duration": 156
+  },
+  {
+    "id": "33",
+    "title": "Pactos - Ao Vivo",
+    "artist": "Matheus & Kauan",
+    "album": "Pactos - Ao Vivo",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/PactosAoVivo/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Pactos%20-%20Ao%20Vivo.mp3",
+    "duration": 226
+  },
+  {
+    "id": "34",
+    "title": "Perfeito Pra Ficar Sozinho - Ao Vivo",
+    "artist": "Murilo Huff",
+    "album": "Perfeito Pra Ficar Sozinho - Ao Vivo",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/PerfeitoPraFicarSozi/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Perfeito%20Pra%20Ficar%20Sozinho%20-%20Ao%20Vivo.mp3",
+    "duration": 171
+  },
+  {
+    "id": "35",
+    "title": "Pipoco",
+    "artist": "Ana Castela",
+    "album": "Pipoco",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/Pipoco/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Pipoco.mp3",
+    "duration": 199
+  },
+  {
+    "id": "36",
+    "title": "Poesia Acústica 13",
+    "artist": "Pineapple StormTv",
+    "album": "Poesia Acústica 13",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/PoesiaAcstica13/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Poesia%20Acústica%2013.mp3",
+    "duration": 628
+  },
+  {
+    "id": "37",
+    "title": "Sereia",
+    "artist": "Orochi",
+    "album": "Sereia",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/Sereia/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Sereia.mp3",
+    "duration": 294
+  },
+  {
+    "id": "38",
+    "title": "Tchuco Nela",
+    "artist": "Rogerinho",
+    "album": "Tchuco Nela",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/TchucoNela/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Tchuco%20Nela.mp3",
+    "duration": 161
+  },
+  {
+    "id": "39",
+    "title": "Te Amo Demais",
+    "artist": "Marília Mendonça",
+    "album": "Te Amo Demais",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/TeAmoDemais/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Te%20Amo%20Demais.mp3",
+    "duration": 206
+  },
+  {
+    "id": "40",
+    "title": "Te Love - Ao Vivo",
+    "artist": "Kevi Jonny",
+    "album": "Te Love - Ao Vivo",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/TeLoveAoVivo/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Te%20Love%20-%20Ao%20Vivo.mp3",
+    "duration": 169
+  },
+  {
+    "id": "41",
+    "title": "Tem Cabaré Essa Noite",
+    "artist": "Nivaldo Marques",
+    "album": "Tem Cabaré Essa Noite",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/TemCabarEssaNoite/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Tem%20Cabaré%20Essa%20Noite.mp3",
+    "duration": 181
+  },
+  {
+    "id": "42",
+    "title": "Todo Seu - Ao Vivo",
+    "artist": "Jorge & Mateus",
+    "album": "Todo Seu - Ao Vivo",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/TodoSeuAoVivo/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Todo%20Seu%20-%20Ao%20Vivo.mp3",
+    "duration": 168
+  },
+  {
+    "id": "43",
+    "title": "Tubarão Te Amo",
+    "artist": "Dj LK da Escócia",
+    "album": "Tubarão Te Amo",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/TubaroTeAmo/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Tubarão%20Te%20Amo.mp3",
+    "duration": 149
+  },
+  {
+    "id": "44",
+    "title": "VERMELHO",
+    "artist": "Gloria Groove",
+    "album": "VERMELHO",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/VERMELHO/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/VERMELHO.mp3",
+    "duration": 153
+  },
+  {
+    "id": "45",
+    "title": "Vagabundo Chora - Ao Vivo",
+    "artist": "Guilherme & Benuto",
+    "album": "Vagabundo Chora - Ao Vivo",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/VagabundoChoraAoVivo/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Vagabundo%20Chora%20-%20Ao%20Vivo.mp3",
+    "duration": 7149
+  },
+  {
+    "id": "46",
+    "title": "Vampiro",
+    "artist": "Matuê",
+    "album": "Vampiro",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/Vampiro/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Vampiro.mp3",
+    "duration": 250
+  },
+  {
+    "id": "47",
+    "title": "Vento Forte",
+    "artist": "Mc Jacaré",
+    "album": "Vento Forte",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/VentoForte/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Vento%20Forte.mp3",
+    "duration": 124
+  },
+  {
+    "id": "48",
+    "title": "sentaDONA (Remix) s2",
+    "artist": "Luísa Sonza",
+    "album": "sentaDONA (Remix) s2",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/sentaDONARemixs2/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/sentaDONA%20(Remix)%20s2.mp3",
+    "duration": 125
+  },
+  {
+    "id": "49",
+    "title": "Áudio Que Te Entrega",
+    "artist": "Léo Santana",
+    "album": "Áudio Que Te Entrega",
+    "playlist": "Hitou",
+    "coverUrl": "https://picsum.photos/seed/udioQueTeEntrega/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Áudio%20Que%20Te%20Entrega.mp3",
+    "duration": 30
+  }
+]
