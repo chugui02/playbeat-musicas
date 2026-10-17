@@ -1,6 +1,646 @@
 [
   {
     "id": "1",
+    "title": "A Rua",
+    "artist": "Pacificadores",
+    "album": "A Rua",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/ARua/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/A%20Rua.mp3",
+    "duration": 261
+  },
+  {
+    "id": "2",
+    "title": "Alma de Pipa",
+    "artist": "Tribo da Periferia",
+    "album": "Alma de Pipa",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/AlmadePipa/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Alma%20de%20Pipa.mp3",
+    "duration": 173
+  },
+  {
+    "id": "3",
+    "title": "Amor e Fé - Acústico",
+    "artist": "Hungria",
+    "album": "Amor e Fé - Acústico",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/AmoreFAcstico/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Amor%20e%20Fé%20-%20Acústico.mp3",
+    "duration": 321
+  },
+  {
+    "id": "4",
+    "title": "Amor e Sexo",
+    "artist": "Reset",
+    "album": "Amor e Sexo",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/AmoreSexo/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Amor%20e%20Sexo.mp3",
+    "duration": 802
+  },
+  {
+    "id": "5",
+    "title": "Assunto",
+    "artist": "Paulo Pires",
+    "album": "Assunto",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/Assunto/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Assunto.mp3",
+    "duration": 133
+  },
+  {
+    "id": "6",
+    "title": "Astronauta",
+    "artist": "Hungria",
+    "album": "Astronauta",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/Astronauta/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Astronauta.mp3",
+    "duration": 262
+  },
+  {
+    "id": "7",
+    "title": "Atmosfera",
+    "artist": "Hungria",
+    "album": "Atmosfera",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/Atmosfera/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Atmosfera.mp3",
+    "duration": 109
+  },
+  {
+    "id": "8",
+    "title": "Beijo Com Trap",
+    "artist": "Hungria",
+    "album": "Beijo Com Trap",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/BeijoComTrap/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Beijo%20Com%20Trap.mp3",
+    "duration": 150
+  },
+  {
+    "id": "9",
+    "title": "Bolo Doido",
+    "artist": "Hungria",
+    "album": "Bolo Doido",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/BoloDoido/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Bolo%20Doido.mp3",
+    "duration": 233
+  },
+  {
+    "id": "10",
+    "title": "Báu Dos Piratas",
+    "artist": "Hungria",
+    "album": "Báu Dos Piratas",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/BuDosPiratas/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Báu%20Dos%20Piratas.mp3",
+    "duration": 276
+  },
+  {
+    "id": "11",
+    "title": "Cama de Casal",
+    "artist": "Hungria",
+    "album": "Cama de Casal",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/CamadeCasal/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Cama%20de%20Casal.mp3",
+    "duration": 299
+  },
+  {
+    "id": "12",
+    "title": "Cara Metade",
+    "artist": "Hungria",
+    "album": "Cara Metade",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/CaraMetade/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Cara%20Metade.mp3",
+    "duration": 189
+  },
+  {
+    "id": "13",
+    "title": "Carruagem",
+    "artist": "Hungria",
+    "album": "Carruagem",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/Carruagem/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Carruagem.mp3",
+    "duration": 246
+  },
+  {
+    "id": "14",
+    "title": "Chevette do Jacó",
+    "artist": "Hungria",
+    "album": "Chevette do Jacó",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/ChevettedoJac/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Chevette%20do%20Jacó.mp3",
+    "duration": 167
+  },
+  {
+    "id": "15",
+    "title": "Chovendo Inimigo",
+    "artist": "Hungria",
+    "album": "Chovendo Inimigo",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/ChovendoInimigo/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Chovendo%20Inimigo.mp3",
+    "duration": 153
+  },
+  {
+    "id": "16",
+    "title": "Copo pro Alto",
+    "artist": "Hungria",
+    "album": "Copo pro Alto",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/CopoproAlto/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Copo%20pro%20Alto.mp3",
+    "duration": 271
+  },
+  {
+    "id": "17",
+    "title": "Coração de Aço",
+    "artist": "Hungria",
+    "album": "Coração de Aço",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/CoraodeAo/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Coração%20de%20Aço.mp3",
+    "duration": 243
+  },
+  {
+    "id": "18",
+    "title": "Coração de Carro Forte",
+    "artist": "Hungria",
+    "album": "Coração de Carro Forte",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/CoraodeCarroForte/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Coração%20de%20Carro%20Forte.mp3",
+    "duration": 300
+  },
+  {
+    "id": "19",
+    "title": "Depois Das Onze",
+    "artist": "Hungria",
+    "album": "Depois Das Onze",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/DepoisDasOnze/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Depois%20Das%20Onze.mp3",
+    "duration": 243
+  },
+  {
+    "id": "20",
+    "title": "Detalhes",
+    "artist": "Hungria",
+    "album": "Detalhes",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/Detalhes/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Detalhes.mp3",
+    "duration": 285
+  },
+  {
+    "id": "21",
+    "title": "Difícil Aceitar",
+    "artist": "Hungria",
+    "album": "Difícil Aceitar",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/DifcilAceitar/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Difícil%20Aceitar.mp3",
+    "duration": 142
+  },
+  {
+    "id": "22",
+    "title": "Disco Voador",
+    "artist": "Hungria",
+    "album": "Disco Voador",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/DiscoVoador/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Disco%20Voador.mp3",
+    "duration": 235
+  },
+  {
+    "id": "23",
+    "title": "Dubai",
+    "artist": "Hungria",
+    "album": "Dubai",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/Dubai/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Dubai.mp3",
+    "duration": 184
+  },
+  {
+    "id": "24",
+    "title": "Emendou",
+    "artist": "Reset",
+    "album": "Emendou",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/Emendou/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Emendou.mp3",
+    "duration": 227
+  },
+  {
+    "id": "25",
+    "title": "Eu Sou Brasileiro",
+    "artist": "Hungria",
+    "album": "Eu Sou Brasileiro",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/EuSouBrasileiro/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Eu%20Sou%20Brasileiro.mp3",
+    "duration": 278
+  },
+  {
+    "id": "26",
+    "title": "Hoje Ela Já Chorou - Acústico",
+    "artist": "Hungria",
+    "album": "Hoje Ela Já Chorou - Acústico",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/HojeElaJChorouAcstic/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Hoje%20Ela%20Já%20Chorou%20-%20Acústico.mp3",
+    "duration": 208
+  },
+  {
+    "id": "27",
+    "title": "Insônia 2",
+    "artist": "Tribo da Periferia",
+    "album": "Insônia 2",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/Insnia2/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Insônia%202.mp3",
+    "duration": 267
+  },
+  {
+    "id": "28",
+    "title": "Insônia",
+    "artist": "Hungria",
+    "album": "Insônia",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/Insnia/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Insônia.mp3",
+    "duration": 283
+  },
+  {
+    "id": "29",
+    "title": "Legacy",
+    "artist": "Hungria",
+    "album": "Legacy",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/Legacy/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Legacy.mp3",
+    "duration": 176
+  },
+  {
+    "id": "30",
+    "title": "Lembranças",
+    "artist": "Hungria",
+    "album": "Lembranças",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/Lembranas/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Lembranças.mp3",
+    "duration": 280
+  },
+  {
+    "id": "31",
+    "title": "Lobo Guará",
+    "artist": "Hungria",
+    "album": "Lobo Guará",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/LoboGuar/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Lobo%20Guará.mp3",
+    "duration": 230
+  },
+  {
+    "id": "32",
+    "title": "Lote 88",
+    "artist": "Tribo da Periferia",
+    "album": "Lote 88",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/Lote88/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Lote%2088.mp3",
+    "duration": 223
+  },
+  {
+    "id": "33",
+    "title": "Made In Favela",
+    "artist": "Hungria",
+    "album": "Made In Favela",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/MadeInFavela/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Made%20In%20Favela.mp3",
+    "duration": 193
+  },
+  {
+    "id": "34",
+    "title": "Mais Brabo Que Vovô",
+    "artist": "Hungria",
+    "album": "Mais Brabo Que Vovô",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/MaisBraboQueVov/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Mais%20Brabo%20Que%20Vovô.mp3",
+    "duration": 211
+  },
+  {
+    "id": "35",
+    "title": "Minha Quebrada",
+    "artist": "Hungria",
+    "album": "Minha Quebrada",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/MinhaQuebrada/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Minha%20Quebrada.mp3",
+    "duration": 197
+  },
+  {
+    "id": "36",
+    "title": "Não Tenho Freio",
+    "artist": "Hungria",
+    "album": "Não Tenho Freio",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/NoTenhoFreio/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Não%20Tenho%20Freio.mp3",
+    "duration": 247
+  },
+  {
+    "id": "37",
+    "title": "Não Troco",
+    "artist": "Hungria",
+    "album": "Não Troco",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/NoTroco/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Não%20Troco.mp3",
+    "duration": 242
+  },
+  {
+    "id": "38",
+    "title": "O Playboy Rodou",
+    "artist": "Hungria",
+    "album": "O Playboy Rodou",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/OPlayboyRodou/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/O%20Playboy%20Rodou.mp3",
+    "duration": 123
+  },
+  {
+    "id": "39",
+    "title": "Os Moleque da Quadra",
+    "artist": "Reset",
+    "album": "Os Moleque da Quadra",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/OsMolequedaQuadra/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Os%20Moleque%20da%20Quadra.mp3",
+    "duration": 261
+  },
+  {
+    "id": "40",
+    "title": "Ostentação Vs Troféu",
+    "artist": "Reset",
+    "album": "Ostentação Vs Troféu",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/OstentaoVsTrofu/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Ostentação%20Vs%20Troféu.mp3",
+    "duration": 802
+  },
+  {
+    "id": "41",
+    "title": "Outro Patamar",
+    "artist": "Hungria",
+    "album": "Outro Patamar",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/OutroPatamar/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Outro%20Patamar.mp3",
+    "duration": 207
+  },
+  {
+    "id": "42",
+    "title": "Pesadelo do Sistema",
+    "artist": "LUKªKU",
+    "album": "Pesadelo do Sistema",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/PesadelodoSistema/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Pesadelo%20do%20Sistema.mp3",
+    "duration": 255
+  },
+  {
+    "id": "43",
+    "title": "Pinxadão",
+    "artist": "Mc Jacaré",
+    "album": "Pinxadão",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/Pinxado/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Pinxadão.mp3",
+    "duration": 139
+  },
+  {
+    "id": "44",
+    "title": "Pisando na Lua - Acústico",
+    "artist": "Hungria",
+    "album": "Pisando na Lua - Acústico",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/PisandonaLuaAcstico/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Pisando%20na%20Lua%20-%20Acústico.mp3",
+    "duration": 246
+  },
+  {
+    "id": "45",
+    "title": "Preta",
+    "artist": "Hungria",
+    "album": "Preta",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/Preta/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Preta.mp3",
+    "duration": 219
+  },
+  {
+    "id": "46",
+    "title": "Protagonista",
+    "artist": "Mc Kayemi",
+    "album": "Protagonista",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/Protagonista/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Protagonista.mp3",
+    "duration": 144
+  },
+  {
+    "id": "47",
+    "title": "Provavelmente",
+    "artist": "Hungria",
+    "album": "Provavelmente",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/Provavelmente/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Provavelmente.mp3",
+    "duration": 246
+  },
+  {
+    "id": "48",
+    "title": "Pérola 1",
+    "artist": "Unimuto",
+    "album": "Pérola 1",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/Prola1/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Pérola%201.mp3",
+    "duration": 189
+  },
+  {
+    "id": "49",
+    "title": "Quebra Cabeça",
+    "artist": "Hungria",
+    "album": "Quebra Cabeça",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/QuebraCabea/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Quebra%20Cabeça.mp3",
+    "duration": 326
+  },
+  {
+    "id": "50",
+    "title": "Quem É o Boss",
+    "artist": "Hungria",
+    "album": "Quem É o Boss",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/QuemoBoss/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Quem%20É%20o%20Boss.mp3",
+    "duration": 272
+  },
+  {
+    "id": "51",
+    "title": "Role na City",
+    "artist": "Pacificadores",
+    "album": "Role na City",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/RolenaCity/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Role%20na%20City.mp3",
+    "duration": 272
+  },
+  {
+    "id": "52",
+    "title": "Seu Pai Falou",
+    "artist": "Hungria",
+    "album": "Seu Pai Falou",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/SeuPaiFalou/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Seu%20Pai%20Falou.mp3",
+    "duration": 184
+  },
+  {
+    "id": "53",
+    "title": "Super Heroi - Acústico",
+    "artist": "Hungria",
+    "album": "Super Heroi - Acústico",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/SuperHeroiAcstico/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Super%20Heroi%20-%20Acústico.mp3",
+    "duration": 200
+  },
+  {
+    "id": "54",
+    "title": "Só Era Nós",
+    "artist": "Hungria",
+    "album": "Só Era Nós",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/SEraNs/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Só%20Era%20Nós.mp3",
+    "duration": 191
+  },
+  {
+    "id": "55",
+    "title": "Temporal",
+    "artist": "Hungria",
+    "album": "Temporal",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/Temporal/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Temporal.mp3",
+    "duration": 258
+  },
+  {
+    "id": "56",
+    "title": "Time Lapse",
+    "artist": "Mc Kayemi",
+    "album": "Time Lapse",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/TimeLapse/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Time%20Lapse.mp3",
+    "duration": 148
+  },
+  {
+    "id": "57",
+    "title": "Troféu",
+    "artist": "Bruno Ukaue",
+    "album": "Troféu",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/Trofu/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Troféu.mp3",
+    "duration": 170
+  },
+  {
+    "id": "58",
+    "title": "Tá Interessante (200 por Hora)",
+    "artist": "Hungria",
+    "album": "Tá Interessante (200 por Hora)",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/TInteressante200porH/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Tá%20Interessante%20(200%20por%20Hora).mp3",
+    "duration": 254
+  },
+  {
+    "id": "59",
+    "title": "Um Brinde pra Nós",
+    "artist": "Hungria",
+    "album": "Um Brinde pra Nós",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/UmBrindepraNs/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Um%20Brinde%20pra%20Nós.mp3",
+    "duration": 159
+  },
+  {
+    "id": "60",
+    "title": "Um Pedido - Acústico",
+    "artist": "Hungria",
+    "album": "Um Pedido - Acústico",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/UmPedidoAcstico/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Um%20Pedido%20-%20Acústico.mp3",
+    "duration": 204
+  },
+  {
+    "id": "61",
+    "title": "Um Pedido",
+    "artist": "Hungria",
+    "album": "Um Pedido",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/UmPedido/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Um%20Pedido.mp3",
+    "duration": 162
+  },
+  {
+    "id": "62",
+    "title": "Voando Alto",
+    "artist": "Pacificadores",
+    "album": "Voando Alto",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/VoandoAlto/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Voando%20Alto.mp3",
+    "duration": 208
+  },
+  {
+    "id": "63",
+    "title": "Zorro do Asfalto",
+    "artist": "Hungria",
+    "album": "Zorro do Asfalto",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/ZorrodoAsfalto/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Zorro%20do%20Asfalto.mp3",
+    "duration": 214
+  },
+  {
+    "id": "64",
+    "title": "Última Vez",
+    "artist": "Hungria",
+    "album": "Última Vez",
+    "playlist": "HUNGRIA DISCO VOADOR 2026",
+    "coverUrl": "https://picsum.photos/seed/ltimaVez/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/HUNGRIA%20DISCO%20VOADOR%202026/Última%20Vez.mp3",
+    "duration": 248
+  },
+  {
+    "id": "65",
     "title": "202",
     "artist": "Kweller",
     "album": "202",
@@ -10,7 +650,7 @@
     "duration": 170
   },
   {
-    "id": "2",
+    "id": "66",
     "title": "5 Regras - Ao Vivo",
     "artist": "Jorge & Mateus",
     "album": "5 Regras - Ao Vivo",
@@ -20,7 +660,7 @@
     "duration": 168
   },
   {
-    "id": "3",
+    "id": "67",
     "title": "AMEIANOITE",
     "artist": "Pabllo Vittar",
     "album": "AMEIANOITE",
@@ -30,7 +670,7 @@
     "duration": 166
   },
   {
-    "id": "4",
+    "id": "68",
     "title": "Acabei de Terminar - Ao Vivo",
     "artist": "Paulo e Nathan",
     "album": "Acabei de Terminar - Ao Vivo",
@@ -40,7 +680,7 @@
     "duration": 224
   },
   {
-    "id": "5",
+    "id": "69",
     "title": "Ai Preto",
     "artist": "L7NNON",
     "album": "Ai Preto",
@@ -50,7 +690,7 @@
     "duration": 132
   },
   {
-    "id": "6",
+    "id": "70",
     "title": "Bagulho Louco",
     "artist": "Mc Paiva ZS",
     "album": "Bagulho Louco",
@@ -60,7 +700,7 @@
     "duration": 124
   },
   {
-    "id": "7",
+    "id": "71",
     "title": "Baile no Morro",
     "artist": "MC Tairon",
     "album": "Baile no Morro",
@@ -70,7 +710,7 @@
     "duration": 140
   },
   {
-    "id": "8",
+    "id": "72",
     "title": "Balanço da Rede",
     "artist": "Matheus Fernandes",
     "album": "Balanço da Rede",
@@ -80,7 +720,7 @@
     "duration": 166
   },
   {
-    "id": "9",
+    "id": "73",
     "title": "Bandido",
     "artist": "Zé Felipe",
     "album": "Bandido",
@@ -90,7 +730,7 @@
     "duration": 132
   },
   {
-    "id": "10",
+    "id": "74",
     "title": "Basiquinho - Ao Vivo",
     "artist": "Matheus & Kauan",
     "album": "Basiquinho - Ao Vivo",
@@ -100,7 +740,7 @@
     "duration": 226
   },
   {
-    "id": "11",
+    "id": "75",
     "title": "Beijo de Glicose - Ao Vivo",
     "artist": "Diego & Victor Hugo",
     "album": "Beijo de Glicose - Ao Vivo",
@@ -110,7 +750,7 @@
     "duration": 182
   },
   {
-    "id": "12",
+    "id": "76",
     "title": "CACHORRINHAS",
     "artist": "Luísa Sonza",
     "album": "CACHORRINHAS",
@@ -120,7 +760,7 @@
     "duration": 135
   },
   {
-    "id": "13",
+    "id": "77",
     "title": "CORAÇÃO CIGANO - Ao Vivo",
     "artist": "Luan Santana",
     "album": "CORAÇÃO CIGANO - Ao Vivo",
@@ -130,7 +770,7 @@
     "duration": 210
   },
   {
-    "id": "14",
+    "id": "78",
     "title": "Casei Com a Putaria",
     "artist": "Mc Paiva ZS",
     "album": "Casei Com a Putaria",
@@ -140,7 +780,7 @@
     "duration": 153
   },
   {
-    "id": "15",
+    "id": "79",
     "title": "Cheiro de Balada - Ao Vivo",
     "artist": "Hugo & Guilherme",
     "album": "Cheiro de Balada - Ao Vivo",
@@ -150,7 +790,7 @@
     "duration": 128
   },
   {
-    "id": "16",
+    "id": "80",
     "title": "Comunicação Falhou - Ao Vivo",
     "artist": "Mari Fernandez",
     "album": "Comunicação Falhou - Ao Vivo",
@@ -160,7 +800,7 @@
     "duration": 180
   },
   {
-    "id": "17",
+    "id": "81",
     "title": "Dengo",
     "artist": "João Gomes",
     "album": "Dengo",
@@ -170,7 +810,7 @@
     "duration": 154
   },
   {
-    "id": "18",
+    "id": "82",
     "title": "EU VOU COM CARINHO ELA QUER COM FORÇA",
     "artist": "Mc Don Juan",
     "album": "EU VOU COM CARINHO ELA QUER COM FORÇA",
@@ -180,7 +820,7 @@
     "duration": 144
   },
   {
-    "id": "19",
+    "id": "83",
     "title": "Eu Gosto Assim - Ao Vivo",
     "artist": "Gustavo Mioto",
     "album": "Eu Gosto Assim - Ao Vivo",
@@ -190,7 +830,7 @@
     "duration": 147
   },
   {
-    "id": "20",
+    "id": "84",
     "title": "Evoque Prata",
     "artist": "MC MENOR HR",
     "album": "Evoque Prata",
@@ -200,7 +840,7 @@
     "duration": 124
   },
   {
-    "id": "21",
+    "id": "85",
     "title": "Fala Mal de Mim - Ao Vivo",
     "artist": "Gusttavo Lima",
     "album": "Fala Mal de Mim - Ao Vivo",
@@ -210,7 +850,7 @@
     "duration": 198
   },
   {
-    "id": "22",
+    "id": "86",
     "title": "Gostosinha é Ela",
     "artist": "Felipe Amorim",
     "album": "Gostosinha é Ela",
@@ -220,17 +860,7 @@
     "duration": 138
   },
   {
-    "id": "23",
-    "title": "Haja Colírio (feat. Hugo & Guilherme) - Ao Vivo",
-    "artist": "Guilherme & Benuto",
-    "album": "Haja Colírio (feat. Hugo & Guilherme) - Ao Vivo",
-    "playlist": "Hitou",
-    "coverUrl": "https://picsum.photos/seed/HajaColriofeatHugoGu/400/400",
-    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Haja%20Colírio%20(feat.%20Hugo%20&%20Guilherme)%20-%20Ao%20Vivo.mp3",
-    "duration": 7149
-  },
-  {
-    "id": "24",
+    "id": "87",
     "title": "Incendeia",
     "artist": "MC Kevin o Chris",
     "album": "Incendeia",
@@ -240,7 +870,7 @@
     "duration": 240
   },
   {
-    "id": "25",
+    "id": "88",
     "title": "Insônia - Ao Vivo",
     "artist": "LUDMILLA",
     "album": "Insônia - Ao Vivo",
@@ -250,7 +880,7 @@
     "duration": 181
   },
   {
-    "id": "26",
+    "id": "89",
     "title": "Konteiner",
     "artist": "Filipe Ret",
     "album": "Konteiner",
@@ -260,7 +890,7 @@
     "duration": 158
   },
   {
-    "id": "27",
+    "id": "90",
     "title": "Mal Feito - Ao Vivo",
     "artist": "Hugo & Guilherme",
     "album": "Mal Feito - Ao Vivo",
@@ -270,7 +900,7 @@
     "duration": 128
   },
   {
-    "id": "28",
+    "id": "91",
     "title": "Melodia Alucinógena",
     "artist": "DJ AK BR",
     "album": "Melodia Alucinógena",
@@ -280,7 +910,7 @@
     "duration": 184
   },
   {
-    "id": "29",
+    "id": "92",
     "title": "Metflix",
     "artist": "Mc Poze do Rodo",
     "album": "Metflix",
@@ -290,7 +920,7 @@
     "duration": 133
   },
   {
-    "id": "30",
+    "id": "93",
     "title": "Nem Namorado e Nem Ficante - Ao Vivo | Faixa Bônus",
     "artist": "Israel & Rodolffo",
     "album": "Nem Namorado e Nem Ficante - Ao Vivo | Faixa Bônus",
@@ -300,7 +930,7 @@
     "duration": 197
   },
   {
-    "id": "31",
+    "id": "94",
     "title": "No Ouvidinho",
     "artist": "Felipe Amorim",
     "album": "No Ouvidinho",
@@ -310,7 +940,7 @@
     "duration": 184
   },
   {
-    "id": "32",
+    "id": "95",
     "title": "NÉ SEGREDO",
     "artist": "MC Cabelinho",
     "album": "NÉ SEGREDO",
@@ -320,7 +950,7 @@
     "duration": 156
   },
   {
-    "id": "33",
+    "id": "96",
     "title": "Pactos - Ao Vivo",
     "artist": "Matheus & Kauan",
     "album": "Pactos - Ao Vivo",
@@ -330,7 +960,7 @@
     "duration": 226
   },
   {
-    "id": "34",
+    "id": "97",
     "title": "Perfeito Pra Ficar Sozinho - Ao Vivo",
     "artist": "Murilo Huff",
     "album": "Perfeito Pra Ficar Sozinho - Ao Vivo",
@@ -340,7 +970,7 @@
     "duration": 171
   },
   {
-    "id": "35",
+    "id": "98",
     "title": "Pipoco",
     "artist": "Ana Castela",
     "album": "Pipoco",
@@ -350,7 +980,7 @@
     "duration": 199
   },
   {
-    "id": "36",
+    "id": "99",
     "title": "Poesia Acústica 13",
     "artist": "Pineapple StormTv",
     "album": "Poesia Acústica 13",
@@ -360,7 +990,7 @@
     "duration": 628
   },
   {
-    "id": "37",
+    "id": "100",
     "title": "Sereia",
     "artist": "Orochi",
     "album": "Sereia",
@@ -370,7 +1000,7 @@
     "duration": 294
   },
   {
-    "id": "38",
+    "id": "101",
     "title": "Tchuco Nela",
     "artist": "Rogerinho",
     "album": "Tchuco Nela",
@@ -380,7 +1010,7 @@
     "duration": 161
   },
   {
-    "id": "39",
+    "id": "102",
     "title": "Te Amo Demais",
     "artist": "Marília Mendonça",
     "album": "Te Amo Demais",
@@ -390,7 +1020,7 @@
     "duration": 206
   },
   {
-    "id": "40",
+    "id": "103",
     "title": "Te Love - Ao Vivo",
     "artist": "Kevi Jonny",
     "album": "Te Love - Ao Vivo",
@@ -400,7 +1030,7 @@
     "duration": 169
   },
   {
-    "id": "41",
+    "id": "104",
     "title": "Tem Cabaré Essa Noite",
     "artist": "Nivaldo Marques",
     "album": "Tem Cabaré Essa Noite",
@@ -410,7 +1040,7 @@
     "duration": 181
   },
   {
-    "id": "42",
+    "id": "105",
     "title": "Todo Seu - Ao Vivo",
     "artist": "Jorge & Mateus",
     "album": "Todo Seu - Ao Vivo",
@@ -420,7 +1050,7 @@
     "duration": 168
   },
   {
-    "id": "43",
+    "id": "106",
     "title": "Tubarão Te Amo",
     "artist": "Dj LK da Escócia",
     "album": "Tubarão Te Amo",
@@ -430,7 +1060,7 @@
     "duration": 149
   },
   {
-    "id": "44",
+    "id": "107",
     "title": "VERMELHO",
     "artist": "Gloria Groove",
     "album": "VERMELHO",
@@ -440,17 +1070,7 @@
     "duration": 153
   },
   {
-    "id": "45",
-    "title": "Vagabundo Chora - Ao Vivo",
-    "artist": "Guilherme & Benuto",
-    "album": "Vagabundo Chora - Ao Vivo",
-    "playlist": "Hitou",
-    "coverUrl": "https://picsum.photos/seed/VagabundoChoraAoVivo/400/400",
-    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Vagabundo%20Chora%20-%20Ao%20Vivo.mp3",
-    "duration": 7149
-  },
-  {
-    "id": "46",
+    "id": "108",
     "title": "Vampiro",
     "artist": "Matuê",
     "album": "Vampiro",
@@ -460,7 +1080,7 @@
     "duration": 250
   },
   {
-    "id": "47",
+    "id": "109",
     "title": "Vento Forte",
     "artist": "Mc Jacaré",
     "album": "Vento Forte",
@@ -470,7 +1090,7 @@
     "duration": 124
   },
   {
-    "id": "48",
+    "id": "110",
     "title": "sentaDONA (Remix) s2",
     "artist": "Luísa Sonza",
     "album": "sentaDONA (Remix) s2",
@@ -480,7 +1100,7 @@
     "duration": 125
   },
   {
-    "id": "49",
+    "id": "111",
     "title": "Áudio Que Te Entrega",
     "artist": "Léo Santana",
     "album": "Áudio Que Te Entrega",
@@ -488,5 +1108,635 @@
     "coverUrl": "https://picsum.photos/seed/udioQueTeEntrega/400/400",
     "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Hitou/Áudio%20Que%20Te%20Entrega.mp3",
     "duration": 30
+  },
+  {
+    "id": "112",
+    "title": "Beijo Reserva - Remix",
+    "artist": "VYOLO",
+    "album": "Beijo Reserva - Remix",
+    "playlist": "Remix do SUL  - DJ TONETTO",
+    "coverUrl": "https://picsum.photos/seed/BeijoReservaRemix/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Remix%20do%20SUL%20%20-%20DJ%20TONETTO/Beijo%20Reserva%20-%20Remix.mp3",
+    "duration": 133
+  },
+  {
+    "id": "113",
+    "title": "Festinha na Plantação",
+    "artist": "DJ Ari SL",
+    "album": "Festinha na Plantação",
+    "playlist": "Remix do SUL  - DJ TONETTO",
+    "coverUrl": "https://picsum.photos/seed/FestinhanaPlantao/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Remix%20do%20SUL%20%20-%20DJ%20TONETTO/Festinha%20na%20Plantação.mp3",
+    "duration": 143
+  },
+  {
+    "id": "114",
+    "title": "Gaudério Abagualado",
+    "artist": "Adson & Alana",
+    "album": "Gaudério Abagualado",
+    "playlist": "Remix do SUL  - DJ TONETTO",
+    "coverUrl": "https://picsum.photos/seed/GaudrioAbagualado/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Remix%20do%20SUL%20%20-%20DJ%20TONETTO/Gaudério%20Abagualado.mp3",
+    "duration": 319
+  },
+  {
+    "id": "115",
+    "title": "Implorando Carinho - Remix",
+    "artist": "Portal da Serra",
+    "album": "Implorando Carinho - Remix",
+    "playlist": "Remix do SUL  - DJ TONETTO",
+    "coverUrl": "https://picsum.photos/seed/ImplorandoCarinhoRem/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Remix%20do%20SUL%20%20-%20DJ%20TONETTO/Implorando%20Carinho%20-%20Remix.mp3",
+    "duration": 220
+  },
+  {
+    "id": "116",
+    "title": "In Colorado",
+    "artist": "Vitor Hugo e Araújo",
+    "album": "In Colorado",
+    "playlist": "Remix do SUL  - DJ TONETTO",
+    "coverUrl": "https://picsum.photos/seed/InColorado/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Remix%20do%20SUL%20%20-%20DJ%20TONETTO/In%20Colorado.mp3",
+    "duration": 188
+  },
+  {
+    "id": "117",
+    "title": "Mega Funk Bar da Esquina",
+    "artist": "DJ Ari SL",
+    "album": "Mega Funk Bar da Esquina",
+    "playlist": "Remix do SUL  - DJ TONETTO",
+    "coverUrl": "https://picsum.photos/seed/MegaFunkBardaEsquina/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Remix%20do%20SUL%20%20-%20DJ%20TONETTO/Mega%20Funk%20Bar%20da%20Esquina.mp3",
+    "duration": 156
+  },
+  {
+    "id": "118",
+    "title": "Mega Funk Pistoleira",
+    "artist": "Corpo e Alma",
+    "album": "Mega Funk Pistoleira",
+    "playlist": "Remix do SUL  - DJ TONETTO",
+    "coverUrl": "https://picsum.photos/seed/MegaFunkPistoleira/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Remix%20do%20SUL%20%20-%20DJ%20TONETTO/Mega%20Funk%20Pistoleira.mp3",
+    "duration": 117
+  },
+  {
+    "id": "119",
+    "title": "Mega Funk da Gauchada 2.0",
+    "artist": "DJ Ari SL",
+    "album": "Mega Funk da Gauchada 2.0",
+    "playlist": "Remix do SUL  - DJ TONETTO",
+    "coverUrl": "https://picsum.photos/seed/MegaFunkdaGauchada20/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Remix%20do%20SUL%20%20-%20DJ%20TONETTO/Mega%20Funk%20da%20Gauchada%202.0.mp3",
+    "duration": 157
+  },
+  {
+    "id": "120",
+    "title": "Mega Funk da Gauchada",
+    "artist": "DJ Ari SL",
+    "album": "Mega Funk da Gauchada",
+    "playlist": "Remix do SUL  - DJ TONETTO",
+    "coverUrl": "https://picsum.photos/seed/MegaFunkdaGauchada/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Remix%20do%20SUL%20%20-%20DJ%20TONETTO/Mega%20Funk%20da%20Gauchada.mp3",
+    "duration": 193
+  },
+  {
+    "id": "121",
+    "title": "Mega Répi do Guasca",
+    "artist": "Xirú Missioneiro",
+    "album": "Mega Répi do Guasca",
+    "playlist": "Remix do SUL  - DJ TONETTO",
+    "coverUrl": "https://picsum.photos/seed/MegaRpidoGuasca/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Remix%20do%20SUL%20%20-%20DJ%20TONETTO/Mega%20Répi%20do%20Guasca.mp3",
+    "duration": 223
+  },
+  {
+    "id": "122",
+    "title": "O Boiadeiro",
+    "artist": "Coleto e Gabriel",
+    "album": "O Boiadeiro",
+    "playlist": "Remix do SUL  - DJ TONETTO",
+    "coverUrl": "https://picsum.photos/seed/OBoiadeiro/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Remix%20do%20SUL%20%20-%20DJ%20TONETTO/O%20Boiadeiro.mp3",
+    "duration": 139
+  },
+  {
+    "id": "123",
+    "title": "Os Cowboy Tá No Hype",
+    "artist": "Vitor Hugo e Araújo",
+    "album": "Os Cowboy Tá No Hype",
+    "playlist": "Remix do SUL  - DJ TONETTO",
+    "coverUrl": "https://picsum.photos/seed/OsCowboyTNoHype/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Remix%20do%20SUL%20%20-%20DJ%20TONETTO/Os%20Cowboy%20Tá%20No%20Hype.mp3",
+    "duration": 132
+  },
+  {
+    "id": "124",
+    "title": "Perigosa e Linda - Remix",
+    "artist": "Corpo e Alma",
+    "album": "Perigosa e Linda - Remix",
+    "playlist": "Remix do SUL  - DJ TONETTO",
+    "coverUrl": "https://picsum.photos/seed/PerigosaeLindaRemix/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Remix%20do%20SUL%20%20-%20DJ%20TONETTO/Perigosa%20e%20Linda%20-%20Remix.mp3",
+    "duration": 210
+  },
+  {
+    "id": "125",
+    "title": "Que chore a viola",
+    "artist": "Gabriel Sales",
+    "album": "Que chore a viola",
+    "playlist": "Remix do SUL  - DJ TONETTO",
+    "coverUrl": "https://picsum.photos/seed/Quechoreaviola/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Remix%20do%20SUL%20%20-%20DJ%20TONETTO/Que%20chore%20a%20viola.mp3",
+    "duration": 163
+  },
+  {
+    "id": "126",
+    "title": "Tiro de 12 - Remix",
+    "artist": "Rainha Musical",
+    "album": "Tiro de 12 - Remix",
+    "playlist": "Remix do SUL  - DJ TONETTO",
+    "coverUrl": "https://picsum.photos/seed/Tirode12Remix/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/Remix%20do%20SUL%20%20-%20DJ%20TONETTO/Tiro%20de%2012%20-%20Remix.mp3",
+    "duration": 140
+  },
+  {
+    "id": "127",
+    "title": "20 - V8 MULTIMARCAS - ESPECIAL FIM DE ANO",
+    "artist": "DJ Colombo SC",
+    "album": "20 - V8 MULTIMARCAS - ESPECIAL FIM DE ANO",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/20V8MULTIMARCASESPEC/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/20%20-%20V8%20MULTIMARCAS%20-%20ESPECIAL%20FIM%20DE%20ANO.mp3",
+    "duration": 128
+  },
+  {
+    "id": "128",
+    "title": "A Culpa Não É Minha",
+    "artist": "Mc Jacaré",
+    "album": "A Culpa Não É Minha",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/ACulpaNoMinha/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/A%20Culpa%20Não%20É%20Minha.mp3",
+    "duration": 138
+  },
+  {
+    "id": "129",
+    "title": "A Jiripoca Vai Piar",
+    "artist": "JIRAYAUAI",
+    "album": "A Jiripoca Vai Piar",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/AJiripocaVaiPiar/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/A%20Jiripoca%20Vai%20Piar.mp3",
+    "duration": 142
+  },
+  {
+    "id": "130",
+    "title": "Boca de Mel",
+    "artist": "Mc Jacaré",
+    "album": "Boca de Mel",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/BocadeMel/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/Boca%20de%20Mel.mp3",
+    "duration": 124
+  },
+  {
+    "id": "131",
+    "title": "Bota Com Vontade",
+    "artist": "Dj Brenno Paixão",
+    "album": "Bota Com Vontade",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/BotaComVontade/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/Bota%20Com%20Vontade.mp3",
+    "duration": 90
+  },
+  {
+    "id": "132",
+    "title": "CD V8 MULTIMARCAS - FAIXA 14",
+    "artist": "DJ Colombo SC",
+    "album": "CD V8 MULTIMARCAS - FAIXA 14",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/CDV8MULTIMARCASFAIXA/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/CD%20V8%20MULTIMARCAS%20-%20FAIXA%2014.mp3",
+    "duration": 198
+  },
+  {
+    "id": "133",
+    "title": "CHAMA TEU VULGO MALVADÃO (MEGA FUNK)",
+    "artist": "DJ Alemão SC",
+    "album": "CHAMA TEU VULGO MALVADÃO (MEGA FUNK)",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/CHAMATEUVULGOMALVADO/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/CHAMA%20TEU%20VULGO%20MALVADÃO%20(MEGA%20FUNK).mp3",
+    "duration": 173
+  },
+  {
+    "id": "134",
+    "title": "Cala a Boca",
+    "artist": "Mc Jacaré",
+    "album": "Cala a Boca",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/CalaaBoca/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/Cala%20a%20Boca.mp3",
+    "duration": 126
+  },
+  {
+    "id": "135",
+    "title": "Cara de Santa",
+    "artist": "Noobreak",
+    "album": "Cara de Santa",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/CaradeSanta/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/Cara%20de%20Santa.mp3",
+    "duration": 203
+  },
+  {
+    "id": "136",
+    "title": "Dentro da Gla",
+    "artist": "MC Menor MT",
+    "album": "Dentro da Gla",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/DentrodaGla/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/Dentro%20da%20Gla.mp3",
+    "duration": 166
+  },
+  {
+    "id": "137",
+    "title": "Desce Com Whisky Na Mão",
+    "artist": "Dj Brenno Paixão",
+    "album": "Desce Com Whisky Na Mão",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/DesceComWhiskyNaMo/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/Desce%20Com%20Whisky%20Na%20Mão.mp3",
+    "duration": 114
+  },
+  {
+    "id": "138",
+    "title": "Eletrofunk Barquinha de Ouro",
+    "artist": "JIRAYAUAI",
+    "album": "Eletrofunk Barquinha de Ouro",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/EletrofunkBarquinhad/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/Eletrofunk%20Barquinha%20de%20Ouro.mp3",
+    "duration": 161
+  },
+  {
+    "id": "139",
+    "title": "Golzinho de Puteiro",
+    "artist": "Dj Kuririn",
+    "album": "Golzinho de Puteiro",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/GolzinhodePuteiro/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/Golzinho%20de%20Puteiro.mp3",
+    "duration": 145
+  },
+  {
+    "id": "140",
+    "title": "Helicóptero",
+    "artist": "Dj Guuga",
+    "album": "Helicóptero",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/Helicptero/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/Helicóptero.mp3",
+    "duration": 139
+  },
+  {
+    "id": "141",
+    "title": "Jogadinha da Deboxe",
+    "artist": "Patrick DJ",
+    "album": "Jogadinha da Deboxe",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/JogadinhadaDeboxe/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/Jogadinha%20da%20Deboxe.mp3",
+    "duration": 117
+  },
+  {
+    "id": "142",
+    "title": "Levanta o Copão",
+    "artist": "Patrick DJ",
+    "album": "Levanta o Copão",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/LevantaoCopo/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/Levanta%20o%20Copão.mp3",
+    "duration": 190
+  },
+  {
+    "id": "143",
+    "title": "MEGA BATIDA DE CATARINENSE",
+    "artist": "DJ Bratti SC",
+    "album": "MEGA BATIDA DE CATARINENSE",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/MEGABATIDADECATARINE/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/MEGA%20BATIDA%20DE%20CATARINENSE.mp3",
+    "duration": 232
+  },
+  {
+    "id": "144",
+    "title": "MEGA FUNK - AS MAIS TOCADAS DE FIM DE ANO 2021 (DJ ALEMÃO SC)",
+    "artist": "DJ Alemão SC",
+    "album": "MEGA FUNK - AS MAIS TOCADAS DE FIM DE ANO 2021 (DJ ALEMÃO SC)",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/MEGAFUNKASMAISTOCADA/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/MEGA%20FUNK%20-%20AS%20MAIS%20TOCADAS%20DE%20FIM%20DE%20ANO%202021%20(DJ%20ALEMÃO%20SC).mp3",
+    "duration": 595
+  },
+  {
+    "id": "145",
+    "title": "MEGA FUNK - AS MAIS TOCADAS DE SETEMBRO",
+    "artist": "DJ Alemão SC",
+    "album": "MEGA FUNK - AS MAIS TOCADAS DE SETEMBRO",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/MEGAFUNKASMAISTOCADA/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/MEGA%20FUNK%20-%20AS%20MAIS%20TOCADAS%20DE%20SETEMBRO.mp3",
+    "duration": 595
+  },
+  {
+    "id": "146",
+    "title": "MEGA FUNK - ATLÉTICA CAIXA FORTE (Uni & Verão 2022)",
+    "artist": "DJ Bratti SC",
+    "album": "MEGA FUNK - ATLÉTICA CAIXA FORTE (Uni & Verão 2022)",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/MEGAFUNKATLTICACAIXA/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/MEGA%20FUNK%20-%20ATLÉTICA%20CAIXA%20FORTE%20(Uni%20&%20Verão%202022).mp3",
+    "duration": 1154
+  },
+  {
+    "id": "147",
+    "title": "MEGA FUNK - PANCADÃO",
+    "artist": "Mega Funk Hits",
+    "album": "MEGA FUNK - PANCADÃO",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/MEGAFUNKPANCADO/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/MEGA%20FUNK%20-%20PANCADÃO.mp3",
+    "duration": 527
+  },
+  {
+    "id": "148",
+    "title": "MEGA FUNK - TUM DUM LANÇAMENTOS",
+    "artist": "DJ OliverColt SC",
+    "album": "MEGA FUNK - TUM DUM LANÇAMENTOS",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/MEGAFUNKTUMDUMLANAME/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/MEGA%20FUNK%20-%20TUM%20DUM%20LANÇAMENTOS.mp3",
+    "duration": 1181
+  },
+  {
+    "id": "149",
+    "title": "MEGA FUNK ALORS ON DANCE",
+    "artist": "DJ Bratti SC",
+    "album": "MEGA FUNK ALORS ON DANCE",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/MEGAFUNKALORSONDANCE/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/MEGA%20FUNK%20ALORS%20ON%20DANCE.mp3",
+    "duration": 155
+  },
+  {
+    "id": "150",
+    "title": "MEGA FUNK CACHORRA SAFADA",
+    "artist": "Dj Gusta RS",
+    "album": "MEGA FUNK CACHORRA SAFADA",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/MEGAFUNKCACHORRASAFA/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/MEGA%20FUNK%20CACHORRA%20SAFADA.mp3",
+    "duration": 231
+  },
+  {
+    "id": "151",
+    "title": "MEGA FUNK DENTRO DO CARRO",
+    "artist": "DJ Alemão SC",
+    "album": "MEGA FUNK DENTRO DO CARRO",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/MEGAFUNKDENTRODOCARR/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/MEGA%20FUNK%20DENTRO%20DO%20CARRO.mp3",
+    "duration": 446
+  },
+  {
+    "id": "152",
+    "title": "MEGA FUNK ELA JOGA NA HORA",
+    "artist": "DJ Alemão SC",
+    "album": "MEGA FUNK ELA JOGA NA HORA",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/MEGAFUNKELAJOGANAHOR/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/MEGA%20FUNK%20ELA%20JOGA%20NA%20HORA.mp3",
+    "duration": 321
+  },
+  {
+    "id": "153",
+    "title": "MEGA FUNK ESPECIAL FIM DE ANO - 2021",
+    "artist": "DJ Paulo PR",
+    "album": "MEGA FUNK ESPECIAL FIM DE ANO - 2021",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/MEGAFUNKESPECIALFIMD/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/MEGA%20FUNK%20ESPECIAL%20FIM%20DE%20ANO%20-%202021.mp3",
+    "duration": 1381
+  },
+  {
+    "id": "154",
+    "title": "MEGA FUNK ME JOGOU NO LIXO",
+    "artist": "DJ PANDA SC",
+    "album": "MEGA FUNK ME JOGOU NO LIXO",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/MEGAFUNKMEJOGOUNOLIX/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/MEGA%20FUNK%20ME%20JOGOU%20NO%20LIXO.mp3",
+    "duration": 273
+  },
+  {
+    "id": "155",
+    "title": "MEGA FUNK TOXIC",
+    "artist": "DJ Petroski",
+    "album": "MEGA FUNK TOXIC",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/MEGAFUNKTOXIC/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/MEGA%20FUNK%20TOXIC.mp3",
+    "duration": 242
+  },
+  {
+    "id": "156",
+    "title": "MEGA FUNK TUM DUM DUM PROS GURI AGITAR",
+    "artist": "Dj Gusta RS",
+    "album": "MEGA FUNK TUM DUM DUM PROS GURI AGITAR",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/MEGAFUNKTUMDUMDUMPRO/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/MEGA%20FUNK%20TUM%20DUM%20DUM%20PROS%20GURI%20AGITAR.mp3",
+    "duration": 232
+  },
+  {
+    "id": "157",
+    "title": "MEGA FUNK TUM DUM VOL. 3 - 2021",
+    "artist": "DJ Paulo PR",
+    "album": "MEGA FUNK TUM DUM VOL. 3 - 2021",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/MEGAFUNKTUMDUMVOL320/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/MEGA%20FUNK%20TUM%20DUM%20VOL.%203%20-%202021.mp3",
+    "duration": 613
+  },
+  {
+    "id": "158",
+    "title": "MEGA FUNK TUM DUM",
+    "artist": "DJ OliverColt SC",
+    "album": "MEGA FUNK TUM DUM",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/MEGAFUNKTUMDUM/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/MEGA%20FUNK%20TUM%20DUM.mp3",
+    "duration": 1181
+  },
+  {
+    "id": "159",
+    "title": "MEGA RAVE FIM DE ANO DOIS",
+    "artist": "DJ Alemão SC",
+    "album": "MEGA RAVE FIM DE ANO DOIS",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/MEGARAVEFIMDEANODOIS/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/MEGA%20RAVE%20FIM%20DE%20ANO%20DOIS.mp3",
+    "duration": 621
+  },
+  {
+    "id": "160",
+    "title": "Maria Piru - Eletro Funk",
+    "artist": "Dj Bruninho Pzs",
+    "album": "Maria Piru - Eletro Funk",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/MariaPiruEletroFunk/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/Maria%20Piru%20-%20Eletro%20Funk.mp3",
+    "duration": 129
+  },
+  {
+    "id": "161",
+    "title": "Mega Funk - Ela Botou o Gps",
+    "artist": "DJ Mega Funk",
+    "album": "Mega Funk - Ela Botou o Gps",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/MegaFunkElaBotouoGps/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/Mega%20Funk%20-%20Ela%20Botou%20o%20Gps.mp3",
+    "duration": 535
+  },
+  {
+    "id": "162",
+    "title": "Mega Funk - Novembro 2018 (Álbum Remember)",
+    "artist": "DJ Felipe PR",
+    "album": "Mega Funk - Novembro 2018 (Álbum Remember)",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/MegaFunkNovembro2018/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/Mega%20Funk%20-%20Novembro%202018%20(Álbum%20Remember).mp3",
+    "duration": 481
+  },
+  {
+    "id": "163",
+    "title": "Mega Funk - Pancadão Automotivo",
+    "artist": "DJ Mega Funk",
+    "album": "Mega Funk - Pancadão Automotivo",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/MegaFunkPancadoAutom/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/Mega%20Funk%20-%20Pancadão%20Automotivo.mp3",
+    "duration": 359
+  },
+  {
+    "id": "164",
+    "title": "Mega Funk - Todo Nicolas Cagezinho",
+    "artist": "DJ Felipe PR",
+    "album": "Mega Funk - Todo Nicolas Cagezinho",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/MegaFunkTodoNicolasC/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/Mega%20Funk%20-%20Todo%20Nicolas%20Cagezinho.mp3",
+    "duration": 312
+  },
+  {
+    "id": "165",
+    "title": "Mega Funk - Tum Dum Dum",
+    "artist": "Mega Funk Hits",
+    "album": "Mega Funk - Tum Dum Dum",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/MegaFunkTumDumDum/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/Mega%20Funk%20-%20Tum%20Dum%20Dum.mp3",
+    "duration": 300
+  },
+  {
+    "id": "166",
+    "title": "Mega Funk Heads",
+    "artist": "Sanchezz DJ",
+    "album": "Mega Funk Heads",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/MegaFunkHeads/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/Mega%20Funk%20Heads.mp3",
+    "duration": 175
+  },
+  {
+    "id": "167",
+    "title": "Novinha de Goiânia",
+    "artist": "Mc Jacaré",
+    "album": "Novinha de Goiânia",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/NovinhadeGoinia/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/Novinha%20de%20Goiânia.mp3",
+    "duration": 111
+  },
+  {
+    "id": "168",
+    "title": "Olha o Trem",
+    "artist": "JIRAYAUAI",
+    "album": "Olha o Trem",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/OlhaoTrem/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/Olha%20o%20Trem.mp3",
+    "duration": 157
+  },
+  {
+    "id": "169",
+    "title": "Outro Mundo",
+    "artist": "Mc Jacaré",
+    "album": "Outro Mundo",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/OutroMundo/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/Outro%20Mundo.mp3",
+    "duration": 145
+  },
+  {
+    "id": "170",
+    "title": "Pinxadão",
+    "artist": "Mc Jacaré",
+    "album": "Pinxadão",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/Pinxado/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/Pinxadão.mp3",
+    "duration": 139
+  },
+  {
+    "id": "171",
+    "title": "Poupa no Chão",
+    "artist": "Mc Jacaré",
+    "album": "Poupa no Chão",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/PoupanoCho/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/Poupa%20no%20Chão.mp3",
+    "duration": 138
+  },
+  {
+    "id": "172",
+    "title": "Senta Pro Bruto",
+    "artist": "Mc Jacaré",
+    "album": "Senta Pro Bruto",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/SentaProBruto/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/Senta%20Pro%20Bruto.mp3",
+    "duration": 149
+  },
+  {
+    "id": "173",
+    "title": "Vem Pro Cabaré",
+    "artist": "Dj Guuga",
+    "album": "Vem Pro Cabaré",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/VemProCabar/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/Vem%20Pro%20Cabaré.mp3",
+    "duration": 140
+  },
+  {
+    "id": "174",
+    "title": "Vento Forte",
+    "artist": "Mc Jacaré",
+    "album": "Vento Forte",
+    "playlist": "US GURI DO SULMEGA FUNK",
+    "coverUrl": "https://picsum.photos/seed/VentoForte/400/400",
+    "audioUrl": "https://raw.githubusercontent.com/chugui02/playbeat-musicas/main/songs/US%20GURI%20DO%20SULMEGA%20FUNK/Vento%20Forte.mp3",
+    "duration": 124
   }
 ]
